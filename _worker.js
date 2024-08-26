@@ -45,10 +45,10 @@ let vmessLinksURL = 'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main
 let proxyhosts = [//本地代理域名池
 	//'ppfv2tl9veojd-maillazy.pages.dev',
 ];
-let proxyhostsURL = 'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/proxyhosts';//在线代理域名池URL
+let proxyhostsURL = 'https://github.com/lambret2023/vmees/raw/main/proxyhosts';//在线代理域名池URL
 let FileName = 'CFcdnVmess2sub';
 let SUBUpdateTime = 6; 
-let total = 99;//PB
+let total = 999;//PB
 //let timestamp = now;
 let timestamp = 4102329600000;//2099-12-31
 const regex = /^(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|\[.*\]):?(\d+)?#?(.*)?$/;
