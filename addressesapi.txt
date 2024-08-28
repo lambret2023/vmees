@@ -1,15 +1,8 @@
-104.16.53.110#远程
-104.16.110.251#远程
-104.17.99.135#远程
-162.159.133.29#远程
-ct.090227.xyz:443#YOUXUAN
-172.64.131.244#CF-27.44MB/s
-104.18.213.5#CF-27.32MB/s
-104.16.97.205#CF-27.09MB/s
-172.64.106.201#CF-26.83MB/s
-104.16.140.67#CF-26.62MB/s
-104.17.194.165#CF-26.52MB/s
-172.64.135.68#CF-26.35MB/s
-162.159.138.88#CF-25.63MB/s
-104.19.82.167#CF-24.98MB/s
-104.17.8.63#CF-23.79MB/s
+csgo.com#CSGO
+visa.com#visa
+visa.cn#VISA
+icook.hk#iCook
+speedtest.jp#JPtest
+speedtest.cn#CNtest 
+wto.jp#wto JP
+wto.org#wto
