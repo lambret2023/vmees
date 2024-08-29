@@ -9,7 +9,6 @@ csgo.com#CSGO
 visa.com#visa
 visa.cn#VISA
 icook.hk#iCook
-wto.org#wto
 
 
 150.230.34.116:443
