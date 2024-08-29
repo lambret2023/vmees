@@ -1,11 +1,16 @@
+
+144.24.85.158:80
+152.70.155.147:80
+150.136.169.72:80
+204.216.218.114:80
+
+
 csgo.com#CSGO
 visa.com#visa
 visa.cn#VISA
 icook.hk#iCook
-speedtest.jp#JPtest
-speedtest.cn#CNtest 
-wto.jp#wto JP
 wto.org#wto
+
 152.70.234.188:443
 150.230.34.116:443
 150.230.221.148:443
