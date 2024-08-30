@@ -20,7 +20,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://github.com/lambret2023/ZIYONG/raw/main/IP.TXT'
+	'https://github.com/lambret2023/vmees/raw/main/addressesapi.txt'
 	
 	//'https://github.com/lambret2023/vmees/raw/main/addressesapi.txt',
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
