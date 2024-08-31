@@ -20,7 +20,10 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://github.com/lambret2023/vmees/raw/main/addressesapi.txt'
+  'https://ipdb.api.030101.xyz/?type=bestcf&country=true',
+  'https://ipdb.api.030101.xyz/?type=bestproxy&country=true',
+'https://addressesapi.090227.xyz/ip.164746.xyz',
+  'https://addressesapi.090227.xyz/CloudFlareYes',
 	
 	//'https://github.com/lambret2023/vmees/raw/main/addressesapi.txt',
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
