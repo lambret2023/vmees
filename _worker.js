@@ -7,10 +7,10 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
     'liangge.us.kg#法国巴黎',
 
-   'lambret.us.kg#lambret',
+   //'lambret.us.kg#lambret',
     'www.visa.com:443#visa ',
-	//'icook.tw:2053#官方优选域名',
-	//'cloudflare.cfgo.cc#优选官方线路',
+	'icook.tw:2053#官方优选域名',
+	'cloudflare.cfgo.cc#优选官方线路',
 ];
 
 // 设置优选地址api接口
