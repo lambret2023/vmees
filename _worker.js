@@ -55,10 +55,10 @@ let vmessLinks = [ //本地CFcdnVmess节点池
 	//'vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5MIiwNCiAgImFkZCI6ICJjZi4wOTAyMjcueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjA2MTk1YjViLTM4MTUtNGEwNy05NmY3LTQ3ZWVmYmIxYjE0MyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXJueGV3enZoLnNpdGUiLA0KICAicGF0aCI6ICIva3dobXZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ1cm54ZXd6dmguc2l0ZSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9',
 ];
 let vmessLinksURL = 'https://github.com/lambret2023/vmees/raw/main/vmesslinks';//CFcdnVmess节点池URL
-let proxyhosts = [//本地代理域名池
-	//'ppfv2tl9veojd-maillazy.pages.dev',
+let proxyhosts = ['984da70e-ea37-4286-942a-ba45234f2cdc.494442b8-c375-4e8b-b897-e3d4c5e8ff37.41099.liangge.us.kg'
+
 ];
-let proxyhostsURL = 'https://github.com/lambret2023/vmees/raw/main/proxyhosts';//在线代理域名池URL
+let proxyhostsURL = //'https://github.com/lambret2023/vmees/raw/main/proxyhosts';//在线代理域名池URL
 let FileName = 'CFcdnVmess2sub';
 let SUBUpdateTime = 6; 
 let total = 999;//PB
