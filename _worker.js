@@ -55,7 +55,7 @@ let vmessLinks = [ //本地CFcdnVmess节点池
 	//'vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5MIiwNCiAgImFkZCI6ICJjZi4wOTAyMjcueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjA2MTk1YjViLTM4MTUtNGEwNy05NmY3LTQ3ZWVmYmIxYjE0MyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXJueGV3enZoLnNpdGUiLA0KICAicGF0aCI6ICIva3dobXZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ1cm54ZXd6dmguc2l0ZSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9',
 ];
 let vmessLinksURL = 'https://github.com/lambret2023/vmees/raw/main/vmesslinks';//CFcdnVmess节点池URL
-let proxyhosts = //'984da70e-ea37-4286-942a-ba45234f2cdc.494442b8-c375-4e8b-b897-e3d4c5e8ff37.41099.liangge.us.kg'
+let proxyhosts = []//984da70e-ea37-4286-942a-ba45234f2cdc.494442b8-c375-4e8b-b897-e3d4c5e8ff37.41099.liangge.us.kg
 	//'e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com'
 
 ;
