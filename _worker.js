@@ -6,12 +6,7 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
     'liangge.us.kg#法国巴黎',
-   // '104.19.53.94#DXL2。美国',
-   // '104.18.141.114#多线路。日本',
-   // '198.41.197.190#多线路2。美国',
-   // '104.18.172.114#DXL。新加坡',
-  //  '104.19.35.193#YD。韩国',
-  //  '104.16.13.27#YD2。美国',
+
    'lambret.us.kg#lambret',
     'www.visa.com:443#visa ',
 	//'icook.tw:2053#官方优选域名',
@@ -32,6 +27,10 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
+	 'liangge.us.kg#法国巴黎 80',
+
+   'lambret.us.kg#lambret 80',
+    'www.visa.com:443#visa 80',
 	//'www.visa.com.sg#官方优选域名',
 	//'www.wto.org:8080#官方优选域名',
 	//'www.who.int:8880#官方优选域名',
