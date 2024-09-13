@@ -56,10 +56,10 @@ let vmessLinks = [ //本地CFcdnVmess节点池
 ];
 let vmessLinksURL = 'https://github.com/lambret2023/vmees/raw/main/vmesslinks';//CFcdnVmess节点池URL
 let proxyhosts = //'984da70e-ea37-4286-942a-ba45234f2cdc.494442b8-c375-4e8b-b897-e3d4c5e8ff37.41099.liangge.us.kg'
-	'e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com'
+	//'e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com'
 
 ;
-let proxyhostsURL = //'https://github.com/lambret2023/vmees/raw/main/proxyhosts';//在线代理域名池URL
+let proxyhostsURL = 'https://github.com/lambret2023/vmees/raw/main/proxyhosts';//在线代理域名池URL
 let FileName = 'CFcdnVmess2sub';
 let SUBUpdateTime = 6; 
 let total = 999;//PB
