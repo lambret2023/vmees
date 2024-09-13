@@ -9,8 +9,8 @@ let addresses = [
 
    //'lambret.us.kg#lambret',
     'www.visa.com:443#visa ',
-	'icook.tw:2053#官方优选域名',
-	'cloudflare.cfgo.cc#优选官方线路',
+	'icook.tw#官方优选域名',
+	'uouin.com#优选官方线路',
 ];
 
 // 设置优选地址api接口
